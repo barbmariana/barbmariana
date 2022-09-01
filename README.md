@@ -10,3 +10,7 @@ Software Skills:
   - Design and Media: Adobe Indesign, Adobe Premiere, Adobe Photoshop, Adobe AfterEffects, Reaper, Figma, Adobe Xcode, Canva
   - Screenwriting: FinalDraft
   - Web Development: HTML, CSS, VsCode, GitHub
+
+<div
+ <a href="https://www.linkedin.com/in/mariana-barbosaa/"> </a> 
+</div>  
