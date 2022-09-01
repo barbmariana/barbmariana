@@ -1,8 +1,12 @@
-### Olá, sou eu Mariana 	:v:
+### Hello, World! It's me Mariana 	:v:
 
-- 📚📺🖥️	Estudante de Rádio e TV (UFRJ) e Desenvolvimento Web (Resilia feat.SENAC)
-- 💻 Programadora Carioca
-- 📊 Publicitária formada pela UFRJ
-- 🎥 Editora de vídeo
-- 🎬 Roteirista formada pela Roteiraria
+- 📚📺🖥️ Media (UFRJ) and Web Development Student (Resilia feat.SENAC)
+- 💻 Scholarship holder at the Web Development Full Stack program (Programadores Cariocas)
+- 📊 Degree in Advertising (UFRJ)
+- 🎥 Videomaker and Content Producer
+- 🎬 Screenwriter (Roteiraria)
 
+Software Skills: 
+  - Design and Media: Adobe Indesign, Adobe Premiere, Adobe Photoshop, Adobe AfterEffects, Reaper, Figma, Adobe Xcode, Canva.
+  - Screenwriting: FinalDraft
+  - Web Development: HTML, CSS, VsCode, GitHub
