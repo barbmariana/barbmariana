@@ -7,6 +7,6 @@
 - 🎬 Screenwriter (Roteiraria)
 
 Software Skills: 
-  - Design and Media: Adobe Indesign, Adobe Premiere, Adobe Photoshop, Adobe AfterEffects, Reaper, Figma, Adobe Xcode, Canva.
+  - Design and Media: Adobe Indesign, Adobe Premiere, Adobe Photoshop, Adobe AfterEffects, Reaper, Figma, Adobe Xcode, Canva
   - Screenwriting: FinalDraft
   - Web Development: HTML, CSS, VsCode, GitHub
