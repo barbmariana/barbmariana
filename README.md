@@ -37,5 +37,5 @@ Design and Media: Adobe Indesign, Adobe Premiere, Adobe Photoshop, Adobe AfterEf
 ## Want to talk with me?
 
 <div> 
-  <a href="n.com/in/mariana-barbosaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/mariana-barbosaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
