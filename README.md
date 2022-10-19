@@ -1,15 +1,17 @@
 ### Hello, World! It's me Mariana 	:v:
 
+I'm a brazilian Web Development student and this is my github. Welcome!! 
+
 - 📚📺🖥️ Media (UFRJ) and Web Development Student (Resilia feat.SENAC)
 - 💻 Scholarship holder at the Web Development Full Stack program (Programadores Cariocas)
-- 📊 Degree in Advertising (UFRJ)
-- 🎥 Videomaker and Content Producer
+- 📊 Advertising graduated (UFRJ)
+- 🎥 Videomaker
 - 🎬 Screenwriter (Roteiraria)
 
-Skills: 
-  - Design and Media: Adobe Indesign, Adobe Premiere, Adobe Photoshop, Adobe AfterEffects, Reaper, Figma, Adobe Xcode, Canva
-  - Screenwriting: FinalDraft
-  - Web Development: HTML, CSS, JavaScript, VsCode, GitHub
+##Skills:
+Web Development: HTML, CSS, JavaScript, Node.js, Bootstrap, VsCode, GitHub.
+Design and Media: Adobe Indesign, Adobe Premiere, Adobe Photoshop, Adobe AfterEffects, Figma, Adobe Xcode, Canva.
+  
 
 
 <div align="start">
