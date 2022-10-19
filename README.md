@@ -9,8 +9,10 @@ I'm a brazilian Web Development student and this is my github. Welcome!!
 - 🎬 Screenwriter (Roteiraria)
 
 
-<h2> Skills: </h2>
+<h3> Skills: </h3>
+
 Web Development: HTML, CSS, JavaScript, Node.js, Bootstrap, VsCode, GitHub.
+
 Design and Media: Adobe Indesign, Adobe Premiere, Adobe Photoshop, Adobe AfterEffects, Figma, Adobe Xcode, Canva.
   
 
