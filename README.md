@@ -8,7 +8,8 @@ I'm a brazilian Web Development student and this is my github. Welcome!!
 - 🎥 Videomaker
 - 🎬 Screenwriter (Roteiraria)
 
-##Skills:
+
+<h2> Skills: </h2>
 Web Development: HTML, CSS, JavaScript, Node.js, Bootstrap, VsCode, GitHub.
 Design and Media: Adobe Indesign, Adobe Premiere, Adobe Photoshop, Adobe AfterEffects, Figma, Adobe Xcode, Canva.
   
@@ -31,7 +32,7 @@ Design and Media: Adobe Indesign, Adobe Premiere, Adobe Photoshop, Adobe AfterEf
   <img align="right" alt="" height="150" style="border-radius:50px;" src="">
 </div>
 
-##
+## Want to talk with me?
 
 <div> 
   <a href="n.com/in/mariana-barbosaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
