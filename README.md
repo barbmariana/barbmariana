@@ -18,7 +18,7 @@ Design and Media: Adobe Indesign, Adobe Premiere, Adobe Photoshop, Adobe AfterEf
 
 
 <div align="start">
-  <a href="https://github.com/Jonas-Sousa">
+  <a href="https://github.com/barbmariana">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=barbmariana&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbmariana&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
