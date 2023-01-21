@@ -11,7 +11,7 @@ I'm a brazilian Web Development student and this is my github. Welcome!!
 
 <h3> Skills: </h3>
 
-Web Development: HTML, CSS, JavaScript, Node.js, Bootstrap, VsCode, GitHub.
+Web Development: HTML, CSS, JavaScript, Node.js, Bootstrap, React, Python, Swift, VsCode, GitHub.
 
 Design and Media: Adobe Indesign, Adobe Premiere, Adobe Photoshop, Adobe AfterEffects, Figma, Adobe Xcode, Canva.
   
@@ -23,16 +23,6 @@ Design and Media: Adobe Indesign, Adobe Premiere, Adobe Photoshop, Adobe AfterEf
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbmariana&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  
-          
-          
-  <img align="right" alt="" height="150" style="border-radius:50px;" src="">
-</div>
 
 ## Want to talk with me?
 
