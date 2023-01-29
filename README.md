@@ -11,7 +11,7 @@ I'm a brazilian Web Development student and this is my github. Welcome!!
 
 <h3> Skills: </h3>
 
-Web Development: HTML, CSS, JavaScript, Node.js, Bootstrap, React, Python, Swift, VsCode, GitHub.
+Web Development: HTML, CSS, JavaScript, Node.js, Bootstrap, React, MySQL Python, Swift, VsCode, GitHub.
 
 Design and Media: Adobe Indesign, Adobe Premiere, Adobe Photoshop, Adobe AfterEffects, Figma, Adobe Xcode, Canva.
   
