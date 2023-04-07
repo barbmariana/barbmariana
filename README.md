@@ -2,7 +2,7 @@
 
 I'm a brazilian Web Development student and this is my github. Welcome!! 
 
-- 📚📺🖥️ Media (UFRJ) and Web Development Student (Resilia feat.SENAC)
+- 📚📺🖥️ Software Engineering and Web Development Student (Resilia feat.SENAC)
 - 💻 Scholarship holder at the Web Development Full Stack program (Programadores Cariocas)
 - 📊 Advertising graduated (UFRJ)
 - 🎥 Videomaker
@@ -11,7 +11,7 @@ I'm a brazilian Web Development student and this is my github. Welcome!!
 
 <h3> Skills: </h3>
 
-Web Development: HTML, CSS, JavaScript, Node.js, Bootstrap, React, MySQL Python, Swift, VsCode, GitHub.
+Web Development: HTML, CSS, JavaScript, Node.js, Bootstrap, React, MySQL, Python, Swift, VsCode, GitHub.
 
 Design and Media: Adobe Indesign, Adobe Premiere, Adobe Photoshop, Adobe AfterEffects, Figma, Adobe Xcode, Canva.
   
