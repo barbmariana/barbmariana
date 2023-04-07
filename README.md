@@ -1,6 +1,6 @@
 ### Hello, World! It's me Mariana 	:v:
 
-I'm a brazilian Web Development student and this is my github. Welcome!! 
+I'm a brazilian Software Engineering student and this is my github. Welcome!! 
 
 - 📚📺🖥️ Software Engineering and Web Development Student (Resilia feat.SENAC)
 - 💻 Scholarship holder at the Web Development Full Stack program (Programadores Cariocas)
