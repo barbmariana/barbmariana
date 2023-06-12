@@ -3,7 +3,7 @@
 I'm a brazilian Software Engineering student at IBM and this is my github. Welcome!! 
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/SwImQhtiNA7io" width="480" height="297" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://giphy.com/embed/SwImQhtiNA7io" width="480" height="297" frameBorder="0" />
 </div>
 
 - 📚📺🖥️ Software Engineering and Web Development Student (UFF)
