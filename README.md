@@ -15,7 +15,7 @@ I'm a brazilian Software Engineering student at IBM and this is my github. Welco
 
 <h3> Currently working with: </h3>
 
-<div style="display:flex; flex-direction:row">
+<div style="display:inline">
 
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" /></a>
 <a href="https://angular.io/" title="Angular"><img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" /></a>
