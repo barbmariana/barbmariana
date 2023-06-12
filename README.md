@@ -32,14 +32,7 @@ I'm a brazilian Software Engineering student at IBM and this is my github. Welco
 Stack: HTML, CSS, JavaScript, GraphQL,Typescript Node.js, Bootstrap, React, MySQL, Python, RestAPI, MySQL, Swift, Angular, VSCode, GitHub.
 
 Design and Media: Adobe Indesign, Adobe Premiere, Adobe Photoshop, Adobe AfterEffects, Figma, Adobe Xcode, Canva.
-  
-
-
-<div align="start">
-  <a href="https://github.com/barbmariana">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=barbmariana&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbmariana&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
+ 
 
 
 ## Want to talk with me?
