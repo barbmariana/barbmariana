@@ -17,7 +17,7 @@ I'm a brazilian Software Engineering student at IBM and this is my github. Welco
 
 <div style="display:inline">
 
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img style="heigth:400px; width:400px"src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" /></a>
 <a href="https://angular.io/" title="Angular"><img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" /></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" /></a>
 <a href="https://www.mysql.com/" title="SQL"><img src="	https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" /></a>
