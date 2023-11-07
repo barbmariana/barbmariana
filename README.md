@@ -31,8 +31,10 @@ I'm a brazilian Software Engineering student at IBM and this is my github. Welco
 <a href="https://angular.io/" title="Angular"><img height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" /></a>
 <a href="https://graphql.org/" title="GraphQL"><img height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" /></a>
 
+<div style="display:flex; flex-direction:row;">
 [![MarianaBarb's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbmariana)](https://github.com/barbmariana/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=barbmariana)](https://github.com/barbmariana/github-readme-stats)
+</div>
 
 
 Stack: HTML, CSS, JavaScript, React, Typescript, Node.js, GraphQL, Angular, Jest, Bootstrap, MySQL, Python, RestAPI, Swift, VSCode, GitHub.
