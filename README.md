@@ -1,8 +1,8 @@
 ### Hi! It's me Mariana. :v:
 
-I'm a brazilian Software Engineering student at IBM and this is my github. Welcome!! 
+I'm a brazilian Software Engineering intern at Globo and this is my github. Welcome!! 
 
-- 📚📺🖥️ Software Engineering and Web Development Student (UFF)
+- 📚📺🖥️ Software Engineering (42 Rio) and Web Development Student (UFF)
 - 💻 Scholarship holder graduated at the Web Development Full Stack program (Programadores Cariocas - Resilia feat.SENAC)
 - 📊 Advertising graduated (UFRJ)
 - 🎥 Videomaker
