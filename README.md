@@ -2,8 +2,9 @@
 
 I'm a brazilian Software Engineering intern at Globo and this is my github. Welcome!! 
 
-- 📚📺🖥️ Software Engineering (42 Rio) and Web Development Student (UFF)
-- 💻 Scholarship holder graduated at the Web Development Full Stack program (Programadores Cariocas - Resilia feat.SENAC)
+- 🖥️ Computer System Student at UFF
+- 📚 Software Architecture Pos Graduate Student at PUC
+- 💻 Certified - Web Development Full Stack program (SENAC)
 - 📊 Advertising graduated (UFRJ)
 - 🎥 Videomaker
 - 🎬 Screenwriter (Roteiraria)
