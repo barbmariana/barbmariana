@@ -1,6 +1,6 @@
 ### Hi! It's me Mariana. :v:
 
-I'm a brazilian Software Engineering intern at Globo and this is my github. Welcome!! 
+I'm a brazilian Software Engineering at Firmly and this is my github. Welcome!! 
 
 - 🖥️ Computer System Student at UFF
 - 📚 Software Architecture Pos Graduate Student at PUC
