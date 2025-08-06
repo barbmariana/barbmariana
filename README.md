@@ -3,7 +3,7 @@
 I'm a brazilian Software Engineering at Firmly and this is my github. Welcome!! 
 
 - 🖥️ Computer System Student at UFF
-- 📚 Software Architecture Pos Graduate Student at PUC
+- 📚 Software Architecture Post Graduate at PUC
 - 💻 Certified - Web Development Full Stack program (SENAC)
 - 📊 Advertising graduated (UFRJ)
 - 🎥 Videomaker
